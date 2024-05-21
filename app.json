@@ -1,0 +1,18 @@
+{
+  "name": "TinyWebDB",
+  "description": "A web DB service that stores and retrieves values.",
+  "website": "https://90plusworks.github.io/TetraGenius/TetraGeniusCell.html",
+  "repository": "https://github.com/90PlusWorks/TinyWebDB",
+  "logo": "https://github.com/90PlusWorks/90plusworks/images/90+works22.png",
+  "addons": [
+    "heroku-postgresql:hobby-dev"
+  ],
+  "keywords": [
+    "tinywebdb",
+    "makeroid",
+    "flask",
+    "sqlalchemy",
+    "postgresql"
+  ],
+  "generator": "https://www.expeditedssl.com/heroku-button-maker"
+}
